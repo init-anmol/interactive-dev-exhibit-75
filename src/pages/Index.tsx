@@ -37,8 +37,8 @@ const Index = () => {
     <div className="min-h-screen overflow-x-hidden">
       <Navbar />
       <Hero />
-      <Projects />
       <Skills />
+      <Projects />
       <About />
       <Contact />
       <Footer />
